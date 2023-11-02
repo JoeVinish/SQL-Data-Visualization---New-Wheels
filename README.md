@@ -13,3 +13,9 @@ As a data scientist, you see that there is an array of questions that are being 
 - Import the file to MySQL 
 - Perform Basic EDA and other analysis
 - Visualize the data and present insights
+
+## Skills & Tools Covered
+- Joins
+- Sub Queries
+- SQL-clauses-statements-conditions
+- MySQL Workbench
